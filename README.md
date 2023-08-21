@@ -1,1 +1,1 @@
-"""this is word2vec program"""
+"""this is word2vec program on amazon review data"""
