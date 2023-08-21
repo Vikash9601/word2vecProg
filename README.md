@@ -1,0 +1,1 @@
+"""this is word2vec program"""
